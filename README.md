@@ -17,5 +17,5 @@ In active development — core gameplay systems are implemented and functional. 
 ![Gameplay](gameplay.png)
 ![Obstacles](obstacles.png)
 
-## Play / Learn More
-https://sterlworld.com
+## Learn More
+https://sterlworld.com/pizzadales
